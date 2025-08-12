@@ -27,6 +27,7 @@ Each topic will be studied in **3 steps**:
 ---
 
 ## 🗂 Repository Structure
+'''
 📦 cs-dev-roadmap
 ┣ 📂 1_computer_architecture
 ┣ 📂 2_network
@@ -42,7 +43,7 @@ Each topic will be studied in **3 steps**:
 ┣ 📂 12_ai_advanced_for_service
 ┣ 📜 README.md
 ┣ 📜 README_KR.md
-
+'''
 ---
 
 ## 🧩 Roadmap Overview
