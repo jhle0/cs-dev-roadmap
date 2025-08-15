@@ -27,23 +27,22 @@ Each topic will be studied in **3 steps**:
 ---
 
 ## 🗂 Repository Structure
-'''
-📦 cs-dev-roadmap
-┣ 📂 1_computer_architecture
-┣ 📂 2_network
-┣ 📂 3_operating_system
-┣ 📂 4_algorithms
-┣ 📂 5_database
-┣ 📂 6_git
-┣ 📂 7_security
-┣ 📂 8_software_design
-┣ 📂 9_ai_utilization
-┣ 📂 10_devops_cloud
-┣ 📂 11_ai_math
-┣ 📂 12_ai_advanced_for_service
-┣ 📜 README.md
-┣ 📜 README_KR.md
-'''
+📦 cs-dev-roadmap  
+┣ 📂 1_computer_architecture  
+┣ 📂 2_network  
+┣ 📂 3_operating_system  
+┣ 📂 4_algorithms  
+┣ 📂 5_database  
+┣ 📂 6_git  
+┣ 📂 7_security  
+┣ 📂 8_software_design  
+┣ 📂 9_ai_utilization  
+┣ 📂 10_devops_cloud  
+┣ 📂 11_ai_math  
+┣ 📂 12_ai_advanced_for_service  
+┣ 📜 README.md  
+┣ 📜 README_KR.md  
+
 ---
 
 ## 🧩 Roadmap Overview
